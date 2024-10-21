@@ -160,7 +160,7 @@ const DocumentGrid = () => {
                 whileInView={{ opacity: 1, y: 0 }}
                 initial={{ opacity: 0, y: -100 }}
                 transition={{ duration: 0.5 }}
-                className="my-20 text-center text-4xl">Presntations</motion.h2>
+                className="my-20 text-center text-4xl">Presentations</motion.h2>
             <div className="p-8">
                 <p className="text-lg mb-6">
                     Please find all presentations related to this project below.
